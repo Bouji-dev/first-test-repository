@@ -6,5 +6,6 @@ int main(){
     int a,b;
     cout<<"adding to stage step"<<endl;
     cout<<"second edit for remote repository"<<endl;
+    double d1,d2;
 
 }
